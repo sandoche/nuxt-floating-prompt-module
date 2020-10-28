@@ -1,6 +1,6 @@
 {
   "name": "nuxt-floating-prompt-module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A floating prompt module for Nuxt.js",
   "repository": "sandoche/nuxt-floating-prompt-module",
   "license": "MIT",
@@ -15,11 +15,13 @@
   "main": "lib/module.js",
   "scripts": {
     "dev": "nuxt example",
-    "lint": "eslint --ext .js,.vue .",
+    "lint": "eslint --ext .js,.vue . --fix",
     "release": "yarn test && standard-version && git push --follow-tags && npm publish",
-    "test": "yarn lint && jest"
+    "test": "yarn lint"
   },
-  "dependencies": {},
+  "dependencies": {
+    "producthunt-floating-prompt": "^1.0.7"
+  },
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",

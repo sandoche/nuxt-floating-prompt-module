@@ -27,8 +27,13 @@ yarn add nuxt-floating-prompt-module # or npm install nuxt-floating-prompt-modul
     'nuxt-floating-prompt-module',
 
     // With options
-    ['nuxt-floating-prompt-module', { /* module options */ }]
-  ]
+    ['nuxt-floating-prompt-module', { /* module options */ }],
+  ],
+
+    // or use options likes this
+    floatingPrompt: {
+      /* module options */
+    }
 }
 ```
 
@@ -45,17 +50,14 @@ yarn add nuxt-floating-prompt-module # or npm install nuxt-floating-prompt-modul
 Copyright (c) Sandoche Adittane
 
 <!-- Badges -->
+
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-floating-prompt-module/latest.svg
 [npm-version-href]: https://npmjs.com/package/nuxt-floating-prompt-module
-
 [npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-floating-prompt-module.svg
 [npm-downloads-href]: https://npmjs.com/package/nuxt-floating-prompt-module
-
 [github-actions-ci-src]: https://github.com/sandoche/nuxt-floating-prompt-module/workflows/ci/badge.svg
 [github-actions-ci-href]: https://github.com/sandoche/nuxt-floating-prompt-module/actions?query=workflow%3Aci
-
 [codecov-src]: https://img.shields.io/codecov/c/github/sandoche/nuxt-floating-prompt-module.svg
 [codecov-href]: https://codecov.io/gh/sandoche/nuxt-floating-prompt-module
-
 [license-src]: https://img.shields.io/npm/l/nuxt-floating-prompt-module.svg
 [license-href]: https://npmjs.com/package/nuxt-floating-prompt-module
