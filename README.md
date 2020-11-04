@@ -10,6 +10,14 @@
 
 This library adds [Producthunt-floating-prompt](https://github.com/sandoche/Producthunt-floating-prompt) to Nuxt.js
 
+## ✨ Demo
+
+Check out the demo in these websites:
+- https://undesign.learn.uno
+- https://curatedstacktemplate.learn.uno/
+- https://producthuntprompt.learn.uno/ (using the standard floating prompt without Nuxt.js)
+
+
 ## 📖 Setup
 
 1. Add `nuxt-floating-prompt-module` dependency to your project
