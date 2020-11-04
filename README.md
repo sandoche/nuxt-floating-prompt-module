@@ -95,4 +95,4 @@ Copyright (c) Sandoche Adittane
 [npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-floating-prompt-module.svg
 [npm-downloads-href]: https://npmjs.com/package/nuxt-floating-prompt-module
 [license-src]: https://img.shields.io/npm/l/nuxt-floating-prompt-module.svg
-[license-href]: https://npmjs.com/package/nuxt-floating-prompt-module
+[license-href]: ./LICENSE
