@@ -56,6 +56,12 @@ yarn add nuxt-floating-prompt-module # or npm install nuxt-floating-prompt-modul
 }
 ```
 
+## ⚙️ Development
+
+1. Clone this repository
+2. Install dependencies using `yarn install` or `npm install`
+3. Start development server using `npm run dev`
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
@@ -75,12 +81,6 @@ If you like this project, feel free to donate:
 - Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
 - Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
 - Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
-
-## ⚙️ Development
-
-1. Clone this repository
-2. Install dependencies using `yarn install` or `npm install`
-3. Start development server using `npm run dev`
 
 ## 📄 License
 
