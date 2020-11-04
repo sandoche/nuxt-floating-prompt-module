@@ -1,6 +1,6 @@
 {
   "name": "nuxt-floating-prompt-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⚡️ Invite your users to support you on product hunt (or any other website) with this floating prompt Nuxt.js module",
   "repository": "sandoche/nuxt-floating-prompt-module",
   "license": "MIT",
